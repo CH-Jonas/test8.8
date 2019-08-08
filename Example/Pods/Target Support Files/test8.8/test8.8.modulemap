@@ -1,0 +1,6 @@
+framework module test8_8 {
+  umbrella header "test8.8-umbrella.h"
+
+  export *
+  module * { export * }
+}
